@@ -1,0 +1,10 @@
+
+memory=100g
+max-memory=100g
+jobinram=16000m
+
+<configuration>
+    <property jobinram="16000m"/>
+    <property memory="80g"/>
+    <property max-memory="80g"/>
+</configuration>
